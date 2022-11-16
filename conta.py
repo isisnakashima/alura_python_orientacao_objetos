@@ -3,7 +3,7 @@ class Conta:
         print("Construinddo objeto...{}".format(self))
         # self é a referência que sabe mencontrar o objeto construído em memória
         # com o self dá para acessar o objeto e definir seus atributos e características
-        self.numero = numero
+        self.numero = numero 
         self.titular = titular
         self.saldo = saldo
         self.limite = limite
